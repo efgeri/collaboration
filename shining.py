@@ -1,2 +1,2 @@
 while True: 
-    println("All work and no play makes Jack a dull boy")
+    print("All work and no play makes Jack a dull boy")
